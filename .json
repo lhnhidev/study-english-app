@@ -1,0 +1,88 @@
+[
+  { "word": "account", "meaning": "tài khoản", "pronunciation": "/əˈkaʊnt/" },
+  {
+    "word": "agreement",
+    "meaning": "hợp đồng, thỏa thuận",
+    "pronunciation": "/əˈɡriː.mənt/"
+  },
+  { "word": "apply", "meaning": "nộp đơn", "pronunciation": "/əˈplaɪ/" },
+  {
+    "word": "approval",
+    "meaning": "sự chấp thuận",
+    "pronunciation": "/əˈpruː.vəl/"
+  },
+  { "word": "budget", "meaning": "ngân sách", "pronunciation": "/ˈbʌdʒ.ɪt/" },
+  {
+    "word": "candidate",
+    "meaning": "ứng viên",
+    "pronunciation": "/ˈkæn.dɪ.dət/"
+  },
+  { "word": "client", "meaning": "khách hàng", "pronunciation": "/ˈklaɪ.ənt/" },
+  {
+    "word": "colleague",
+    "meaning": "đồng nghiệp",
+    "pronunciation": "/ˈkɒl.iːɡ/"
+  },
+  {
+    "word": "contract",
+    "meaning": "hợp đồng",
+    "pronunciation": "/ˈkɒn.trækt/"
+  },
+  { "word": "deadline", "meaning": "hạn chót", "pronunciation": "/ˈded.laɪn/" },
+  { "word": "deliver", "meaning": "giao hàng", "pronunciation": "/dɪˈlɪv.ər/" },
+  {
+    "word": "department",
+    "meaning": "phòng ban",
+    "pronunciation": "/dɪˈpɑːt.mənt/"
+  },
+  {
+    "word": "employee",
+    "meaning": "nhân viên",
+    "pronunciation": "/ˌemp.lɔɪˈiː/"
+  },
+  {
+    "word": "employer",
+    "meaning": "nhà tuyển dụng",
+    "pronunciation": "/ɪmˈplɔɪ.ər/"
+  },
+  {
+    "word": "equipment",
+    "meaning": "thiết bị",
+    "pronunciation": "/ɪˈkwɪp.mənt/"
+  },
+  {
+    "word": "experience",
+    "meaning": "kinh nghiệm",
+    "pronunciation": "/ɪkˈspɪə.ri.əns/"
+  },
+  { "word": "feedback", "meaning": "phản hồi", "pronunciation": "/ˈfiːd.bæk/" },
+  {
+    "word": "interview",
+    "meaning": "phỏng vấn",
+    "pronunciation": "/ˈɪn.tə.vjuː/"
+  },
+  { "word": "manager", "meaning": "quản lý", "pronunciation": "/ˈmæn.ɪ.dʒər/" },
+  { "word": "meeting", "meaning": "cuộc họp", "pronunciation": "/ˈmiː.tɪŋ/" },
+  { "word": "notice", "meaning": "thông báo", "pronunciation": "/ˈnəʊ.tɪs/" },
+  { "word": "offer", "meaning": "đề nghị", "pronunciation": "/ˈɒf.ər/" },
+  { "word": "order", "meaning": "đơn hàng", "pronunciation": "/ˈɔː.dər/" },
+  {
+    "word": "position",
+    "meaning": "vị trí công việc",
+    "pronunciation": "/pəˈzɪʃ.ən/"
+  },
+  { "word": "product", "meaning": "sản phẩm", "pronunciation": "/ˈprɒd.ʌkt/" },
+  {
+    "word": "promotion",
+    "meaning": "sự thăng chức",
+    "pronunciation": "/prəˈməʊ.ʃən/"
+  },
+  { "word": "report", "meaning": "báo cáo", "pronunciation": "/rɪˈpɔːt/" },
+  { "word": "require", "meaning": "yêu cầu", "pronunciation": "/rɪˈkwaɪər/" },
+  {
+    "word": "schedule",
+    "meaning": "lịch trình",
+    "pronunciation": "/ˈʃed.juːl/"
+  },
+  { "word": "training", "meaning": "đào tạo", "pronunciation": "/ˈtreɪ.nɪŋ/" }
+]
