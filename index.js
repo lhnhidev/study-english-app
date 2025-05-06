@@ -102,15 +102,19 @@ document.getElementById("fileInput").addEventListener("change", function () {
         break;
       case "Enter":
       case " ":
-        console.log(123);
         event.preventDefault();
-        console.log(event);
         speakWord(event);
+        break;
+      case "1":
+        console.log(123);
+        toggleMeaning();
         break;
     }
   });
 
   reader.readAsText(file);
 });
+
+window.addEventListener('keydown', (e) => console.log(e));
 
 renderCard();
