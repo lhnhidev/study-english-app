@@ -1,0 +1,84 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f1f1f1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+}
+
+.card {
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 300px;
+  cursor: pointer;
+  transition: 0.3s;
+  min-height: 150px;
+  margin-top: 20px;
+}
+
+.card:hover {
+  background-color: #e7f5ff;
+}
+
+.word {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.pronunciation {
+  font-size: 16px;
+  color: #666;
+  margin-top: 4px;
+}
+
+.meaning {
+  font-size: 20px;
+  color: #555;
+  display: none;
+}
+
+.controls {
+  margin-top: 20px;
+}
+
+button {
+  padding: 8px 12px;
+  margin: 5px;
+  border: none;
+  border-radius: 6px;
+  background-color: #3498db;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+/* Thêm danh sách từ */
+#wordList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  max-width: 500px;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.word-button {
+  padding: 2px 6px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: white;
+  color: black;
+}
+
+.word-button.active {
+  background-color: #3498db;
+  color: white;
+}

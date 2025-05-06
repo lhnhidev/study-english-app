@@ -1,216 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Flashcard + JSON Upload</title>
-    <style>
-      body {
-        font-family: Arial, sans-serif;
-        background: #f1f1f1;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        padding: 40px;
-      }
-      .card {
-        background: white;
-        padding: 30px;
-        border-radius: 12px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        text-align: center;
-        width: 300px;
-        cursor: pointer;
-        transition: 0.3s;
-        min-height: 150px;
-        margin-top: 20px;
-      }
-      .card:hover {
-        background-color: #e7f5ff;
-      }
-      .word {
-        font-size: 24px;
-        font-weight: bold;
-      }
-      .pronunciation {
-        font-size: 16px;
-        color: #666;
-        margin-top: 4px;
-      }
-      .meaning {
-        font-size: 20px;
-        color: #555;
-        display: none;
-      }
-      .controls {
-        margin-top: 20px;
-      }
-      button {
-        padding: 8px 12px;
-        margin: 5px;
-        border: none;
-        border-radius: 6px;
-        background-color: #3498db;
-        color: white;
-        cursor: pointer;
-      }
-      button:hover {
-        background-color: #2980b9;
-      }
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Flashcard English Json</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <h2>Upload file từ vựng (.json)</h2>
+  <input type="file" id="fileInput" accept=".json" />
 
-      /* Thêm danh sách từ */
-      #wordList {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 8px;
-        max-width: 500px;
-        justify-content: center;
-        margin-top: 30px;
-      }
-
-      .word-button {
-        padding: 2px 6px;
-        border: 1px solid #ccc;
-        border-radius: 4px;
-        cursor: pointer;
-        background-color: white;
-        color: black;
-      }
-
-      .word-button.active {
-        background-color: #3498db;
-        color: white;
-      }
-    </style>
-  </head>
-  <body>
-    <h2>Upload file từ vựng (.json)</h2>
-    <input type="file" id="fileInput" accept=".json" />
-
-    <div class="card" onclick="toggleMeaning()">
-      <div class="pronunciation" id="pronunciation">/ˈwɜːd/</div>
-      <div
-        class="type"
-        id="type"
-        style="font-size: 16px; color: #888; margin: 4px 0"
-      >
-        noun
-      </div>
-      <div
-        style="
-          height: 50px;
-          display: flex;
-          align-items: center;
-          justify-content: center;
-        "
-      >
-        <div class="meaning" id="meaning">Meaning</div>
-      </div>
-      <div class="controls">
-        <button onclick="prevCard(event)">Prev</button>
-        <button onclick="nextCard(event)">Next</button>
-        <button onclick="speakWord(event)">Speak</button>
-      </div>
+  <div class="card" onclick="toggleMeaning()">
+    <div id="word" style="font-size: 24px; font-weight: bold">Word</div>
+    <div class="pronunciation" id="pronunciation">/ˈwɜːd/</div>
+    <div
+      class="type"
+      id="type"
+      style="font-size: 16px; color: #888; margin: 4px 0"
+    >
+      noun
     </div>
+    <div
+      style="
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      "
+    >
+      <div class="meaning" id="meaning">Meaning</div>
+    </div>
+    <div class="controls">
+      <button onclick="prevCard(event)">Prev</button>
+      <button onclick="nextCard(event)">Next</button>
+      <button onclick="speakWord(event)">Speak</button>
+    </div>
+  </div>
 
-    <h3>Tất cả từ vựng</h3>
-    <div id="wordList"></div>
-
-    <script>
-      let myVocabulary = [
-        { word: "hello", meaning: "xin chào", pronunciation: "/həˈləʊ/", type: "n" },
-      ];
-      let currentIndex = 0;
-
-      function renderCard() {
-        const current = myVocabulary[currentIndex];
-        document.getElementById("word").textContent = current.word;
-        document.getElementById("pronunciation").textContent =
-          current.pronunciation;
-        document.getElementById("type").textContent = current.type;
-        document.getElementById("meaning").textContent = current.meaning;
-        document.getElementById("meaning").style.display = "none";
-
-        const wordListEl = document.getElementById("wordList");
-        wordListEl.innerHTML = "";
-
-        myVocabulary.forEach((item, index) => {
-          const div = document.createElement("div");
-          div.textContent = item.word;
-          div.className =
-            "word-button" + (index === currentIndex ? " active" : "");
-          div.onclick = () => {
-            currentIndex = index;
-            renderCard();
-          };
-          wordListEl.appendChild(div);
-        });
-      }
-
-      function toggleMeaning() {
-        const meaningEl = document.getElementById("meaning");
-        meaningEl.style.display =
-          meaningEl.style.display === "none" ? "block" : "none";
-      }
-
-      function prevCard(event) {
-        event.stopPropagation();
-        if (currentIndex > 0) {
-          currentIndex--;
-          renderCard();
-        }
-      }
-
-      function nextCard(event) {
-        event.stopPropagation();
-        if (currentIndex < myVocabulary.length - 1) {
-          currentIndex++;
-          renderCard();
-        }
-      }
-
-      function speakWord(event) {
-        event.stopPropagation();
-        const current = myVocabulary[currentIndex];
-        const utter = new SpeechSynthesisUtterance(current.word);
-        utter.lang = "en-US";
-        speechSynthesis.speak(utter);
-      }
-
-      document
-        .getElementById("fileInput")
-        .addEventListener("change", function () {
-          const file = this.files[0];
-          if (!file) return;
-
-          const reader = new FileReader();
-          reader.onload = function (e) {
-            try {
-              const data = JSON.parse(e.target.result);
-              if (
-                Array.isArray(data) &&
-                data.every(
-                  (item) =>
-                    item.word && item.meaning && item.pronunciation && item.type
-                )
-              ) {
-                myVocabulary = data;
-                currentIndex = 0;
-                renderCard();
-                alert("Tải từ vựng từ JSON thành công!");
-              } else {
-                alert(
-                  "File JSON cần có đủ các trường: word, meaning, pronunciation, type."
-                );
-              }
-            } catch (err) {
-              alert("Lỗi khi đọc file JSON: " + err.message);
-            }
-          };
-          reader.readAsText(file);
-        });
-
-      renderCard();
-    </script>
-  </body>
+  <h3>Tất cả từ vựng</h3>
+  <div id="wordList"></div>
+</body>
+<script src="./index.js"></script>
 </html>
