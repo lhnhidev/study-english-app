@@ -1,0 +1,5 @@
+[
+  { "word": "account", "meaning": "tài khoản", "pronunciation": "/əˈkaʊnt/", "type": "n" },
+  { "word": "training", "meaning": "đào tạo", "pronunciation": "/ˈtreɪ.nɪŋ/", "type": "v" }
+]
+đây là cấu trúc của file json mẫu tôi cần, xây dựng file json dựa vào các từ sau:

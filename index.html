@@ -88,9 +88,22 @@
     <input type="file" id="fileInput" accept=".json" />
 
     <div class="card" onclick="toggleMeaning()">
-      <div class="word" id="word">Word</div>
       <div class="pronunciation" id="pronunciation">/ˈwɜːd/</div>
-      <div style="height: 50px; display: flex; align-items: center; justify-content: center;">
+      <div
+        class="type"
+        id="type"
+        style="font-size: 16px; color: #888; margin: 4px 0"
+      >
+        noun
+      </div>
+      <div
+        style="
+          height: 50px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        "
+      >
         <div class="meaning" id="meaning">Meaning</div>
       </div>
       <div class="controls">
@@ -105,7 +118,7 @@
 
     <script>
       let myVocabulary = [
-        { word: "hello", meaning: "xin chào", pronunciation: "/həˈləʊ/" },
+        { word: "hello", meaning: "xin chào", pronunciation: "/həˈləʊ/", type: "n" },
       ];
       let currentIndex = 0;
 
@@ -114,10 +127,10 @@
         document.getElementById("word").textContent = current.word;
         document.getElementById("pronunciation").textContent =
           current.pronunciation;
+        document.getElementById("type").textContent = current.type;
         document.getElementById("meaning").textContent = current.meaning;
         document.getElementById("meaning").style.display = "none";
 
-        // Hiển thị danh sách từ
         const wordListEl = document.getElementById("wordList");
         wordListEl.innerHTML = "";
 
@@ -174,13 +187,21 @@
           reader.onload = function (e) {
             try {
               const data = JSON.parse(e.target.result);
-              if (Array.isArray(data)) {
+              if (
+                Array.isArray(data) &&
+                data.every(
+                  (item) =>
+                    item.word && item.meaning && item.pronunciation && item.type
+                )
+              ) {
                 myVocabulary = data;
                 currentIndex = 0;
                 renderCard();
                 alert("Tải từ vựng từ JSON thành công!");
               } else {
-                alert("File JSON không chứa mảng từ vựng.");
+                alert(
+                  "File JSON cần có đủ các trường: word, meaning, pronunciation, type."
+                );
               }
             } catch (err) {
               alert("Lỗi khi đọc file JSON: " + err.message);
@@ -189,7 +210,7 @@
           reader.readAsText(file);
         });
 
-      renderCard(); // Khởi tạo
+      renderCard();
     </script>
   </body>
 </html>
