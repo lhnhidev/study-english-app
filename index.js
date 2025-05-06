@@ -83,6 +83,33 @@ document.getElementById("fileInput").addEventListener("change", function () {
       alert("Lỗi khi đọc file JSON: " + err.message);
     }
   };
+
+  document.addEventListener("keydown", function (event) {
+    switch (event.key) {
+      case "ArrowLeft":
+      case "ArrowDown":
+        if (currentIndex > 0) {
+          currentIndex--;
+          renderCard();
+        }
+        break;
+      case "ArrowRight":
+      case "ArrowUp":
+        if (currentIndex < myVocabulary.length - 1) {
+          currentIndex++;
+          renderCard();
+        }
+        break;
+      case "Enter":
+      case " ":
+        console.log(123);
+        event.preventDefault();
+        console.log(event);
+        speakWord(event);
+        break;
+    }
+  });
+
   reader.readAsText(file);
 });
 
