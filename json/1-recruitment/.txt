@@ -19,3 +19,43 @@ excellent: xuất sắc, ưu tú
 eligible for: có đủ tư cách
 identify: nhận diện, nhận ra
 identification: chứng minh thư
+
+associate: liên kết, đồng nghiệp
+employment: việc làm
+employ: đồng nghiệp
+employee: nhân viên
+employer: người tuyển dụng
+unemployment: thất nghiệp
+lay off: sa thải
+dismiss: sa thải
+fire: sa thải
+lack: thiếu hụt
+managerial: thuộc về quản lý
+supervisory: giám sát, giám thị
+staff: nhân viên
+familiar: quen thuộc
+familiarize: làm quen
+prospective: có triển vọng, có tương lai
+appeal: kêu gọi, lôi cuốn, hấp dẫn
+attract: hấp dẫn, thu hút
+specialize: chuyên làm về
+apprehensive: lo lắng
+concerned: lo lắng
+consultant: người tư vấn
+consult: tham khảo ý kiến, hỏi
+entile: cho quyền làm gì đó
+certification: giấy chứng nhận
+certificate: chứng chỉ
+occupation: nghề nghiệp
+occupy: giữ, chiếm (vị trí)
+occupant: người sở hữu (đất), người thuê (nhà)
+wage: tiền lương
+resume: sơ yếu lý lịch
+requirement: điều kiện cần thiết
+prerequisite: điều kiện tiên quyết
+interview: cuộc phỏng vấn
+publisher: nhà xuất bản
+training: đào tạo
+devote: cống hiến
+condition: điều kiện
+diligent: siêng năng

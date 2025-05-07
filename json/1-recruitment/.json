@@ -2,31 +2,31 @@
   {
     "word": "recruitment",
     "meaning": "sự tuyển dụng",
-    "pronunciation": "/rɪˈkruːtmənt/",
+    "pronunciation": "/rɪˈkruːt.mənt/",
     "type": "n"
   },
   {
     "word": "opening",
     "meaning": "vị trí trống",
-    "pronunciation": "/ˈəʊpənɪŋ/",
+    "pronunciation": "/ˈəʊ.pən.ɪŋ/",
     "type": "n"
   },
   {
     "word": "vacancy",
     "meaning": "vị trí trống",
-    "pronunciation": "/ˈveɪkənsi/",
+    "pronunciation": "/ˈveɪ.kən.si/",
     "type": "n"
   },
   {
     "word": "applicant",
     "meaning": "ứng viên",
-    "pronunciation": "/ˈæplɪkənt/",
+    "pronunciation": "/ˈæp.lɪ.kənt/",
     "type": "n"
   },
   {
     "word": "appliance",
     "meaning": "thiết bị, dụng cụ",
-    "pronunciation": "/əˈplaɪəns/",
+    "pronunciation": "/əˈplaɪ.əns/",
     "type": "n"
   },
   {
@@ -38,7 +38,7 @@
   {
     "word": "satisfy",
     "meaning": "thỏa mãn, đáp ứng",
-    "pronunciation": "/ˈsætɪsfaɪ/",
+    "pronunciation": "/ˈsæt.ɪs.faɪ/",
     "type": "v"
   },
   {
@@ -62,38 +62,38 @@
   {
     "word": "qualified",
     "meaning": "đủ khả năng, trình độ",
-    "pronunciation": "/ˈkwɒlɪfaɪd/",
+    "pronunciation": "/ˈkwɒl.ɪ.faɪd/",
     "type": "adj"
   },
   {
     "word": "certified",
-    "meaning": "đủ khả năng, trình độ",
-    "pronunciation": "/ˈsɜːtɪfaɪd/",
+    "meaning": "được chứng nhận",
+    "pronunciation": "/ˈsɜː.tɪ.faɪd/",
     "type": "adj"
   },
   {
     "word": "professional",
     "meaning": "chuyên nghiệp, chuyên gia",
-    "pronunciation": "/prəˈfeʃənl/",
+    "pronunciation": "/prəˈfeʃ.ən.əl/",
     "type": "adj/n"
   },
   {
     "word": "professionally",
     "meaning": "thành thạo, chuyên nghiệp",
-    "pronunciation": "/prəˈfeʃənəli/",
+    "pronunciation": "/prəˈfeʃ.ən.əl.i/",
     "type": "adv"
   },
   {
     "word": "profession",
     "meaning": "nghề nghiệp",
-    "pronunciation": "/prəˈfeʃn/",
+    "pronunciation": "/prəˈfeʃ.ən/",
     "type": "n"
   },
   {
     "word": "reference",
     "meaning": "giới thiệu, tham khảo",
-    "pronunciation": "/ˈrefrəns/",
-    "type": "n"
+    "pronunciation": "/ˈref.ər.əns/",
+    "type": "n/v"
   },
   {
     "word": "refer",
@@ -104,7 +104,7 @@
   {
     "word": "position",
     "meaning": "vị trí, chức vụ",
-    "pronunciation": "/pəˈzɪʃn/",
+    "pronunciation": "/pəˈzɪʃ.ən/",
     "type": "n"
   },
   {
@@ -116,7 +116,7 @@
   {
     "word": "achievement",
     "meaning": "thành tựu, thành tích",
-    "pronunciation": "/əˈtʃiːvmənt/",
+    "pronunciation": "/əˈtʃiːv.mənt/",
     "type": "n"
   },
   {
@@ -128,31 +128,265 @@
   {
     "word": "impressive",
     "meaning": "gây xúc động, gợi cảm",
-    "pronunciation": "/ɪmˈpresɪv/",
+    "pronunciation": "/ɪmˈpres.ɪv/",
     "type": "adj"
   },
   {
     "word": "excellent",
     "meaning": "xuất sắc, ưu tú",
-    "pronunciation": "/ˈeksələnt/",
+    "pronunciation": "/ˈek.səl.ənt/",
     "type": "adj"
   },
   {
     "word": "eligible",
     "meaning": "có đủ tư cách",
-    "pronunciation": "/ˈelɪdʒəbl/",
+    "pronunciation": "/ˈel.ɪ.dʒə.bəl/",
     "type": "adj"
   },
   {
     "word": "identify",
     "meaning": "nhận diện, nhận ra",
-    "pronunciation": "/aɪˈdentɪfaɪ/",
+    "pronunciation": "/aɪˈden.tɪ.faɪ/",
     "type": "v"
   },
   {
     "word": "identification",
     "meaning": "chứng minh thư",
-    "pronunciation": "/aɪˌdentɪfɪˈkeɪʃn/",
+    "pronunciation": "/aɪˌden.tɪ.fɪˈkeɪ.ʃən/",
     "type": "n"
+  },
+  {
+    "word": "associate",
+    "meaning": "liên kết, đồng nghiệp",
+    "pronunciation": "/əˈsəʊ.si.eɪt/",
+    "type": "v/n"
+  },
+  {
+    "word": "employment",
+    "meaning": "việc làm",
+    "pronunciation": "/ɪmˈplɔɪ.mənt/",
+    "type": "n"
+  },
+  {
+    "word": "employ",
+    "meaning": "tuyển dụng",
+    "pronunciation": "/ɪmˈplɔɪ/",
+    "type": "v"
+  },
+  {
+    "word": "employee",
+    "meaning": "nhân viên",
+    "pronunciation": "/ˌem.plɔɪˈiː/",
+    "type": "n"
+  },
+  {
+    "word": "employer",
+    "meaning": "người tuyển dụng",
+    "pronunciation": "/ɪmˈplɔɪ.ər/",
+    "type": "n"
+  },
+  {
+    "word": "unemployment",
+    "meaning": "thất nghiệp",
+    "pronunciation": "/ˌʌn.ɪmˈplɔɪ.mənt/",
+    "type": "n"
+  },
+  {
+    "word": "lay off",
+    "meaning": "sa thải",
+    "pronunciation": "/leɪ ɒf/",
+    "type": "v"
+  },
+  {
+    "word": "dismiss",
+    "meaning": "sa thải",
+    "pronunciation": "/dɪsˈmɪs/",
+    "type": "v"
+  },
+  {
+    "word": "fire",
+    "meaning": "sa thải",
+    "pronunciation": "/faɪər/",
+    "type": "v"
+  },
+  {
+    "word": "lack",
+    "meaning": "thiếu hụt",
+    "pronunciation": "/læk/",
+    "type": "n/v"
+  },
+  {
+    "word": "managerial",
+    "meaning": "thuộc về quản lý",
+    "pronunciation": "/ˌmæn.əˈdʒɪə.ri.əl/",
+    "type": "adj"
+  },
+  {
+    "word": "supervisory",
+    "meaning": "giám sát, giám thị",
+    "pronunciation": "/ˌsuː.pəˈvaɪ.zər.i/",
+    "type": "adj"
+  },
+  {
+    "word": "staff",
+    "meaning": "nhân viên",
+    "pronunciation": "/stɑːf/",
+    "type": "n"
+  },
+  {
+    "word": "familiar",
+    "meaning": "quen thuộc",
+    "pronunciation": "/fəˈmɪl.i.ər/",
+    "type": "adj"
+  },
+  {
+    "word": "familiarize",
+    "meaning": "làm quen",
+    "pronunciation": "/fəˈmɪl.iə.raɪz/",
+    "type": "v"
+  },
+  {
+    "word": "prospective",
+    "meaning": "có triển vọng, có tương lai",
+    "pronunciation": "/prəˈspek.tɪv/",
+    "type": "adj"
+  },
+  {
+    "word": "appeal",
+    "meaning": "kêu gọi, lôi cuốn, hấp dẫn",
+    "pronunciation": "/əˈpiːl/",
+    "type": "v/n"
+  },
+  {
+    "word": "attract",
+    "meaning": "hấp dẫn, thu hút",
+    "pronunciation": "/əˈtrækt/",
+    "type": "v"
+  },
+  {
+    "word": "specialize",
+    "meaning": "chuyên làm về",
+    "pronunciation": "/ˈspeʃ.əl.aɪz/",
+    "type": "v"
+  },
+  {
+    "word": "apprehensive",
+    "meaning": "lo lắng",
+    "pronunciation": "/ˌæp.rɪˈhen.sɪv/",
+    "type": "adj"
+  },
+  {
+    "word": "concerned",
+    "meaning": "lo lắng",
+    "pronunciation": "/kənˈsɜːnd/",
+    "type": "adj"
+  },
+  {
+    "word": "consultant",
+    "meaning": "người tư vấn",
+    "pronunciation": "/kənˈsʌl.tənt/",
+    "type": "n"
+  },
+  {
+    "word": "consult",
+    "meaning": "tham khảo ý kiến, hỏi",
+    "pronunciation": "/kənˈsʌlt/",
+    "type": "v"
+  },
+  {
+    "word": "entile",
+    "meaning": "cho quyền làm gì đó",
+    "pronunciation": "/ɪnˈtaɪ.təl/",
+    "type": "v"
+  },
+  {
+    "word": "certification",
+    "meaning": "giấy chứng nhận",
+    "pronunciation": "/ˌsɜː.tɪ.fɪˈkeɪ.ʃən/",
+    "type": "n"
+  },
+  {
+    "word": "certificate",
+    "meaning": "chứng chỉ",
+    "pronunciation": "/səˈtɪf.ɪ.kət/",
+    "type": "n"
+  },
+  {
+    "word": "occupation",
+    "meaning": "nghề nghiệp",
+    "pronunciation": "/ˌɒk.jʊˈpeɪ.ʃən/",
+    "type": "n"
+  },
+  {
+    "word": "occupy",
+    "meaning": "giữ, chiếm (vị trí)",
+    "pronunciation": "/ˈɒk.jʊ.paɪ/",
+    "type": "v"
+  },
+  {
+    "word": "occupant",
+    "meaning": "người sở hữu (đất), người thuê (nhà)",
+    "pronunciation": "/ˈɒk.jə.pənt/",
+    "type": "n"
+  },
+  {
+    "word": "wage",
+    "meaning": "tiền lương",
+    "pronunciation": "/weɪdʒ/",
+    "type": "n"
+  },
+  {
+    "word": "resume",
+    "meaning": "sơ yếu lý lịch",
+    "pronunciation": "/ˈrez.juː.meɪ/",
+    "type": "n"
+  },
+  {
+    "word": "requirement",
+    "meaning": "điều kiện cần thiết",
+    "pronunciation": "/rɪˈkwaɪə.mənt/",
+    "type": "n"
+  },
+  {
+    "word": "prerequisite",
+    "meaning": "điều kiện tiên quyết",
+    "pronunciation": "/ˌpriːˈrek.wɪ.zɪt/",
+    "type": "n"
+  },
+  {
+    "word": "interview",
+    "meaning": "cuộc phỏng vấn",
+    "pronunciation": "/ˈɪn.tə.vjuː/",
+    "type": "n/v"
+  },
+  {
+    "word": "publisher",
+    "meaning": "nhà xuất bản",
+    "pronunciation": "/ˈpʌb.lɪ.ʃər/",
+    "type": "n"
+  },
+  {
+    "word": "training",
+    "meaning": "đào tạo",
+    "pronunciation": "/ˈtreɪ.nɪŋ/",
+    "type": "n"
+  },
+  {
+    "word": "devote",
+    "meaning": "cống hiến",
+    "pronunciation": "/dɪˈvəʊt/",
+    "type": "v"
+  },
+  {
+    "word": "condition",
+    "meaning": "điều kiện",
+    "pronunciation": "/kənˈdɪʃ.ən/",
+    "type": "n"
+  },
+  {
+    "word": "diligent",
+    "meaning": "siêng năng",
+    "pronunciation": "/ˈdɪl.ɪ.dʒənt/",
+    "type": "adj"
   }
 ]
