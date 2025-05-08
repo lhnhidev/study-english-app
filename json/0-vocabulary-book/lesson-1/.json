@@ -1,0 +1,260 @@
+[
+  {
+    "word": "special",
+    "meaning": "đặc biệt",
+    "pronunciation": "/ˈspeʃəl/",
+    "type": "adj"
+  },
+  {
+    "word": "specialist",
+    "meaning": "chuyên gia",
+    "pronunciation": "/ˈspɛʃəlɪst/",
+    "type": "n"
+  },
+  {
+    "word": "regarding",
+    "meaning": "liên quan",
+    "pronunciation": "/rɪˈɡɑːdɪŋ/",
+    "type": "prep"
+  },
+  {
+    "word": "enthusiast",
+    "meaning": "người say mê",
+    "pronunciation": "/ɪnˈθuːziæst/",
+    "type": "n"
+  },
+  {
+    "word": "complimentary",
+    "meaning": "miễn phí",
+    "pronunciation": "/ˌkɒmplɪˈmɛntəri/",
+    "type": "adj"
+  },
+  {
+    "word": "evaluation",
+    "meaning": "đánh giá",
+    "pronunciation": "/ɪˌvæljʊˈeɪʃən/",
+    "type": "n"
+  },
+  {
+    "word": "catering",
+    "meaning": "dịch vụ ăn uống",
+    "pronunciation": "/ˈkeɪtərɪŋ/",
+    "type": "n"
+  },
+  {
+    "word": "measures",
+    "meaning": "kế hoạch, giải pháp",
+    "pronunciation": "/ˈmɛʒərz/",
+    "type": "n"
+  },
+  {
+    "word": "strategy",
+    "meaning": "kế hoạch",
+    "pronunciation": "/ˈstrætədʒi/",
+    "type": "n"
+  },
+  {
+    "word": "campaign",
+    "meaning": "kế hoạch",
+    "pronunciation": "/kæmˈpeɪn/",
+    "type": "n"
+  },
+  {
+    "word": "sensitive",
+    "meaning": "nhạy cảm",
+    "pronunciation": "/ˈsɛnsɪtɪv/",
+    "type": "adj"
+  },
+  {
+    "word": "essential",
+    "meaning": "thiết yếu",
+    "pronunciation": "/ɪˈsɛnʃəl/",
+    "type": "adj"
+  },
+  {
+    "word": "potential",
+    "meaning": "tiềm năng",
+    "pronunciation": "/pəˈtɛnʃəl/",
+    "type": "adj"
+  },
+  {
+    "word": "effectiveness",
+    "meaning": "sự hiệu quả",
+    "pronunciation": "/ɪˈfɛktɪvnɪs/",
+    "type": "n"
+  },
+  {
+    "word": "conduct",
+    "meaning": "tiến hành",
+    "pronunciation": "/ˈkɒndʌkt/",
+    "type": "v"
+  },
+  {
+    "word": "implement",
+    "meaning": "thực hiện, triển khai",
+    "pronunciation": "/ˈɪmplɪˌmɛnt/",
+    "type": "v"
+  },
+  {
+    "word": "invest",
+    "meaning": "đầu tư",
+    "pronunciation": "/ɪnˈvɛst/",
+    "type": "v"
+  },
+  {
+    "word": "present",
+    "meaning": "món quà, hiện tại, có mặt, trình bày",
+    "pronunciation": "/ˈprɛzənt/",
+    "type": "n, v, adj"
+  },
+  {
+    "word": "representative",
+    "meaning": "người đại diện",
+    "pronunciation": "/ˌrɛprɪˈzɛntətɪv/",
+    "type": "n"
+  },
+  {
+    "word": "testament",
+    "meaning": "bằng chứng",
+    "pronunciation": "/ˈtɛstəmənt/",
+    "type": "n"
+  },
+  {
+    "word": "formula",
+    "meaning": "công thức",
+    "pronunciation": "/ˈfɔːmjʊlə/",
+    "type": "n"
+  },
+  {
+    "word": "surrounding",
+    "meaning": "giữ gìn",
+    "pronunciation": "/səˈraʊndɪŋ/",
+    "type": "adj"
+  },
+  {
+    "word": "spotless",
+    "meaning": "không dơ bẩn",
+    "pronunciation": "/ˈspɒtləs/",
+    "type": "adj"
+  },
+  {
+    "word": "scent",
+    "meaning": "mùi hương",
+    "pronunciation": "/sɛnt/",
+    "type": "n"
+  },
+  {
+    "word": "brochure",
+    "meaning": "quảng cáo",
+    "pronunciation": "/ˈbrəʊʃʊə/",
+    "type": "n"
+  },
+  {
+    "word": "guarantee",
+    "meaning": "bảo đảm, bảo hành",
+    "pronunciation": "/ˌɡærənˈtiː/",
+    "type": "n, v"
+  },
+  {
+    "word": "insurance",
+    "meaning": "bảo hiểm",
+    "pronunciation": "/ɪnˈʃʊərəns/",
+    "type": "n"
+  },
+  {
+    "word": "promptly",
+    "meaning": "nhanh chóng",
+    "pronunciation": "/ˈprɒmptli/",
+    "type": "adv"
+  },
+  {
+    "word": "substitute",
+    "meaning": "vật thay thế",
+    "pronunciation": "/ˈsʌbstɪtjuːt/",
+    "type": "n"
+  },
+  {
+    "word": "track",
+    "meaning": "giám sát",
+    "pronunciation": "/træk/",
+    "type": "v"
+  },
+  {
+    "word": "detect",
+    "meaning": "phát hiện",
+    "pronunciation": "/dɪˈtɛkt/",
+    "type": "v"
+  },
+  {
+    "word": "appetizer",
+    "meaning": "khai vị",
+    "pronunciation": "/ˈæpɪtaɪzər/",
+    "type": "n"
+  },
+  {
+    "word": "main courses",
+    "meaning": "món chính",
+    "pronunciation": "/meɪn kɔːsɪz/",
+    "type": "n"
+  },
+  {
+    "word": "dessert",
+    "meaning": "tráng miệng",
+    "pronunciation": "/dɪˈzɜːt/",
+    "type": "n"
+  },
+  {
+    "word": "stuff",
+    "meaning": "nhồi nhét",
+    "pronunciation": "/stʌf/",
+    "type": "v"
+  },
+  {
+    "word": "mushrooms",
+    "meaning": "nấm",
+    "pronunciation": "/ˈmʌʃruːmz/",
+    "type": "n"
+  },
+  {
+    "word": "profits",
+    "meaning": "lợi nhuận",
+    "pronunciation": "/ˈprɒfɪts/",
+    "type": "n"
+  },
+  {
+    "word": "revenue",
+    "meaning": "doanh thu",
+    "pronunciation": "/ˈrɛvənjuː/",
+    "type": "n"
+  },
+  {
+    "word": "conference",
+    "meaning": "hội thảo",
+    "pronunciation": "/ˈkɒnfərəns/",
+    "type": "n"
+  },
+  {
+    "word": "interpret",
+    "meaning": "thông dịch, diễn giải",
+    "pronunciation": "/ɪnˈtɜːprɪt/",
+    "type": "v"
+  },
+  {
+    "word": "intense",
+    "meaning": "căng thẳng",
+    "pronunciation": "/ɪnˈtɛns/",
+    "type": "adj"
+  },
+  {
+    "word": "guide",
+    "meaning": "hướng dẫn, người hướng dẫn",
+    "pronunciation": "/ɡaɪd/",
+    "type": "n, v"
+  },
+  {
+    "word": "guideline",
+    "meaning": "chuỗi bài hướng dẫn",
+    "pronunciation": "/ˈɡaɪdlaɪn/",
+    "type": "n"
+  }
+]
