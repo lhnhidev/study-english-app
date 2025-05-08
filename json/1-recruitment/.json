@@ -388,5 +388,29 @@
     "meaning": "siêng năng",
     "pronunciation": "/ˈdɪl.ɪ.dʒənt/",
     "type": "adj"
+  },
+  {
+    "word": "proficiency",
+    "meaning": "sự thông thạo",
+    "pronunciation": "/prəˈfɪʃənsi/",
+    "type": "n"
+  },
+  {
+    "word": "degree",
+    "meaning": "bằng cấp",
+    "pronunciation": "/dɪˈɡriː/",
+    "type": "n"
+  },
+  {
+    "word": "payroll",
+    "meaning": "bảng lương",
+    "pronunciation": "/ˈpeɪrɒl/",
+    "type": "n"
+  },
+  {
+    "word": "recruit",
+    "meaning": "tuyển dụng",
+    "pronunciation": "/rɪˈkruːt/",
+    "type": "v"
   }
 ]

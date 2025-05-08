@@ -59,3 +59,7 @@ training: đào tạo
 devote: cống hiến
 condition: điều kiện
 diligent: siêng năng
+proficiency: sự thông thạo
+degree: bằng cấp
+payroll: bảng lương
+recruit: tuyển dụng 

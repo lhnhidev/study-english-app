@@ -1,0 +1,242 @@
+[
+  {
+    "word": "regulation",
+    "meaning": "quy định",
+    "pronunciation": "/ˌreɡ.jəˈleɪ.ʃən/",
+    "type": "n"
+  },
+  {
+    "word": "regulate",
+    "meaning": "điều khiển",
+    "pronunciation": "/ˈreɡ.jə.leɪt/",
+    "type": "v"
+  },
+  {
+    "word": "attire",
+    "meaning": "quần áo, cách ăn mặc",
+    "pronunciation": "/əˈtaɪər/",
+    "type": "n"
+  },
+  {
+    "word": "concern",
+    "meaning": "lo lắng, mối quan ngại, dính líu đến",
+    "pronunciation": "/kənˈsɜːn/",
+    "type": "n, v"
+  },
+  {
+    "word": "involve",
+    "meaning": "ảnh hưởng, liên quan đến",
+    "pronunciation": "/ɪnˈvɒlv/",
+    "type": "v"
+  },
+  {
+    "word": "affect",
+    "meaning": "ảnh hưởng",
+    "pronunciation": "/əˈfekt/",
+    "type": "v"
+  },
+  {
+    "word": "exception",
+    "meaning": "ngoại lệ",
+    "pronunciation": "/ɪkˈsep.ʃən/",
+    "type": "n"
+  },
+  {
+    "word": "comply",
+    "meaning": "tuân thủ",
+    "pronunciation": "/kəmˈplaɪ/",
+    "type": "v"
+  },
+  {
+    "word": "observe",
+    "meaning": "tuân thủ",
+    "pronunciation": "/əbˈzɜːv/",
+    "type": "v"
+  },
+  {
+    "word": "obey",
+    "meaning": "làm theo chỉ thị",
+    "pronunciation": "/əˈbeɪ/",
+    "type": "v"
+  },
+  {
+    "word": "policy",
+    "meaning": "chính sách, quy chế",
+    "pronunciation": "/ˈpɒl.ə.si/",
+    "type": "n"
+  },
+  {
+    "word": "severely",
+    "meaning": "nghiêm khắc",
+    "pronunciation": "/sɪˈvɪə.li/",
+    "type": "adv"
+  },
+  {
+    "word": "refrain",
+    "meaning": "kiềm chế, hạn chế",
+    "pronunciation": "/rɪˈfreɪn/",
+    "type": "v"
+  },
+  {
+    "word": "restrict",
+    "meaning": "giới hạn, hạn chế",
+    "pronunciation": "/rɪˈstrɪkt/",
+    "type": "v"
+  },
+  {
+    "word": "access",
+    "meaning": "truy cập, đường vào, sự lui tới",
+    "pronunciation": "/ˈæk.ses/",
+    "type": "n, v"
+  },
+  {
+    "word": "accessibility",
+    "meaning": "khả năng tiếp cận",
+    "pronunciation": "/əkˌses.əˈbɪl.ə.ti/",
+    "type": "n"
+  },
+  {
+    "word": "approach",
+    "meaning": "tiếp cận",
+    "pronunciation": "/əˈprəʊtʃ/",
+    "type": "n, v"
+  },
+  {
+    "word": "approval",
+    "meaning": "sự phê duyệt",
+    "pronunciation": "/əˈpruː.vəl/",
+    "type": "n"
+  },
+  {
+    "word": "thoroughly",
+    "meaning": "một cách kỹ lưỡng",
+    "pronunciation": "/ˈθʌr.ə.li/",
+    "type": "adv"
+  },
+  {
+    "word": "revise",
+    "meaning": "sửa đổi, thay đổi",
+    "pronunciation": "/rɪˈvaɪz/",
+    "type": "v"
+  },
+  {
+    "word": "immediately",
+    "meaning": "ngay lập tức",
+    "pronunciation": "/ɪˈmiː.di.ət.li/",
+    "type": "adv"
+  },
+  {
+    "word": "procedure",
+    "meaning": "thủ tục",
+    "pronunciation": "/prəˈsiː.dʒər/",
+    "type": "n"
+  },
+  {
+    "word": "proceed",
+    "meaning": "tiến hành, tiếp diễn",
+    "pronunciation": "/prəˈsiːd/",
+    "type": "v"
+  },
+  {
+    "word": "negative",
+    "meaning": "tiêu cực",
+    "pronunciation": "/ˈneɡ.ə.tɪv/",
+    "type": "adj"
+  },
+  {
+    "word": "positive",
+    "meaning": "tích cực",
+    "pronunciation": "/ˈpɒz.ə.tɪv/",
+    "type": "adj"
+  },
+  {
+    "word": "mandate",
+    "meaning": "ra lệnh, ủy quyền, lệnh",
+    "pronunciation": "/ˈmæn.deɪt/",
+    "type": "v, n"
+  },
+  {
+    "word": "authorize",
+    "meaning": "ủy quyền, cho phép",
+    "pronunciation": "/ˈɔː.θə.raɪz/",
+    "type": "v"
+  },
+  {
+    "word": "effect",
+    "meaning": "hiệu quả, hiệu lực, đem lại",
+    "pronunciation": "/ɪˈfekt/",
+    "type": "n, v"
+  },
+  {
+    "word": "drastically",
+    "meaning": "một cách mạnh mẽ",
+    "pronunciation": "/ˈdræs.tɪ.kəl.i/",
+    "type": "adv"
+  },
+  {
+    "word": "drastic",
+    "meaning": "mạnh mẽ, quyết liệt",
+    "pronunciation": "/ˈdræs.tɪk/",
+    "type": "adj"
+  },
+  {
+    "word": "according to",
+    "meaning": "theo như",
+    "pronunciation": "/əˈkɔː.dɪŋ tuː/",
+    "type": "prep"
+  },
+  {
+    "word": "standard",
+    "meaning": "tiêu chuẩn, trình độ",
+    "pronunciation": "/ˈstæn.dəd/",
+    "type": "n, adj"
+  },
+  {
+    "word": "constant",
+    "meaning": "liên tục",
+    "pronunciation": "/ˈkɒn.stənt/",
+    "type": "adj"
+  },
+  {
+    "word": "constantly",
+    "meaning": "một cách liên tục",
+    "pronunciation": "/ˈkɒn.stənt.li/",
+    "type": "adv"
+  },
+  {
+    "word": "obligation",
+    "meaning": "nghĩa vụ, trách nhiệm",
+    "pronunciation": "/ˌɒb.lɪˈɡeɪ.ʃən/",
+    "type": "n"
+  },
+  {
+    "word": "effort",
+    "meaning": "nỗ lực, cố gắng",
+    "pronunciation": "/ˈef.ət/",
+    "type": "n"
+  },
+  {
+    "word": "prohibit",
+    "meaning": "ngăn cấm, không cho phép",
+    "pronunciation": "/prəˈhɪb.ɪt/",
+    "type": "v"
+  },
+  {
+    "word": "forbid",
+    "meaning": "ngăn cấm",
+    "pronunciation": "/fəˈbɪd/",
+    "type": "v"
+  },
+  {
+    "word": "ban",
+    "meaning": "lệnh cấm",
+    "pronunciation": "/bæn/",
+    "type": "v, n"
+  },
+  {
+    "word": "convention",
+    "meaning": "tập quán của cộng đồng, xã hội",
+    "pronunciation": "/kənˈven.ʃən/",
+    "type": "n"
+  }
+]
