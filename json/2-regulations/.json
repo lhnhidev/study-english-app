@@ -7,7 +7,7 @@
   },
   {
     "word": "regulate",
-    "meaning": "điều khiển",
+    "meaning": "điều khiển (control)",
     "pronunciation": "/ˈreɡ.jə.leɪt/",
     "type": "v"
   },
@@ -21,7 +21,7 @@
     "word": "concern",
     "meaning": "lo lắng, mối quan ngại, dính líu đến",
     "pronunciation": "/kənˈsɜːn/",
-    "type": "n, v"
+    "type": "n/v"
   },
   {
     "word": "involve",
@@ -37,13 +37,13 @@
   },
   {
     "word": "exception",
-    "meaning": "ngoại lệ",
+    "meaning": "ngoại lệ (thường đi với with)",
     "pronunciation": "/ɪkˈsep.ʃən/",
     "type": "n"
   },
   {
     "word": "comply",
-    "meaning": "tuân thủ",
+    "meaning": "tuân thủ (thường đi với with)",
     "pronunciation": "/kəmˈplaɪ/",
     "type": "v"
   },
@@ -73,7 +73,7 @@
   },
   {
     "word": "refrain",
-    "meaning": "kiềm chế, hạn chế",
+    "meaning": "kiềm chế, hạn chế (thường đi với from)",
     "pronunciation": "/rɪˈfreɪn/",
     "type": "v"
   },
@@ -87,7 +87,7 @@
     "word": "access",
     "meaning": "truy cập, đường vào, sự lui tới",
     "pronunciation": "/ˈæk.ses/",
-    "type": "n, v"
+    "type": "n/v"
   },
   {
     "word": "accessibility",
@@ -99,7 +99,7 @@
     "word": "approach",
     "meaning": "tiếp cận",
     "pronunciation": "/əˈprəʊtʃ/",
-    "type": "n, v"
+    "type": "v/n"
   },
   {
     "word": "approval",
@@ -151,21 +151,21 @@
   },
   {
     "word": "mandate",
-    "meaning": "ra lệnh, ủy quyền, lệnh",
+    "meaning": "ra lệnh, ủy quyền, ủy thác, lệnh",
     "pronunciation": "/ˈmæn.deɪt/",
-    "type": "v, n"
+    "type": "v/n"
   },
   {
     "word": "authorize",
     "meaning": "ủy quyền, cho phép",
-    "pronunciation": "/ˈɔː.θə.raɪz/",
+    "pronunciation": "/ˈɔː.θər.aɪz/",
     "type": "v"
   },
   {
     "word": "effect",
     "meaning": "hiệu quả, hiệu lực, đem lại",
     "pronunciation": "/ɪˈfekt/",
-    "type": "n, v"
+    "type": "n/v"
   },
   {
     "word": "drastically",
@@ -189,7 +189,7 @@
     "word": "standard",
     "meaning": "tiêu chuẩn, trình độ",
     "pronunciation": "/ˈstæn.dəd/",
-    "type": "n, adj"
+    "type": "n"
   },
   {
     "word": "constant",
@@ -231,12 +231,108 @@
     "word": "ban",
     "meaning": "lệnh cấm",
     "pronunciation": "/bæn/",
-    "type": "v, n"
+    "type": "v/n"
   },
   {
     "word": "convention",
     "meaning": "tập quán của cộng đồng, xã hội",
     "pronunciation": "/kənˈven.ʃən/",
+    "type": "n"
+  },
+  {
+    "word": "adhere",
+    "meaning": "bám sát, tuân thủ",
+    "pronunciation": "/ədˈhɪər/",
+    "type": "v"
+  },
+  {
+    "word": "adherence",
+    "meaning": "sự trung thành",
+    "pronunciation": "/ədˈhɪə.rəns/",
+    "type": "n"
+  },
+  {
+    "word": "inspection",
+    "meaning": "sự điều tra",
+    "pronunciation": "/ɪnˈspek.ʃən/",
+    "type": "n"
+  },
+  {
+    "word": "inspect",
+    "meaning": "điều tra, kiểm tra",
+    "pronunciation": "/ɪnˈspekt/",
+    "type": "v"
+  },
+  {
+    "word": "inspector",
+    "meaning": "thanh tra",
+    "pronunciation": "/ɪnˈspek.tər/",
+    "type": "n"
+  },
+  {
+    "word": "arrangement",
+    "meaning": "sự sắp đặt, sắp xếp, chuẩn bị",
+    "pronunciation": "/əˈreɪndʒ.mənt/",
+    "type": "n"
+  },
+  {
+    "word": "enable",
+    "meaning": "cho phép",
+    "pronunciation": "/ɪˈneɪ.bəl/",
+    "type": "v"
+  },
+  {
+    "word": "act",
+    "meaning": "hành động, đạo luật, đưa ra quyết định",
+    "pronunciation": "/ækt/",
+    "type": "v/n"
+  },
+  {
+    "word": "compensation",
+    "meaning": "sự đền bù, bồi thường",
+    "pronunciation": "/ˌkɒm.penˈseɪ.ʃən/",
+    "type": "n"
+  },
+  {
+    "word": "compensate",
+    "meaning": "đền bù, bồi thường",
+    "pronunciation": "/ˈkɒm.pən.seɪt/",
+    "type": "v"
+  },
+  {
+    "word": "abolish",
+    "meaning": "thủ tiêu, bãi bỏ, hủy bỏ",
+    "pronunciation": "/əˈbɒl.ɪʃ/",
+    "type": "v"
+  },
+  {
+    "word": "enforce",
+    "meaning": "thi hành, thúc ép",
+    "pronunciation": "/ɪnˈfɔːs/",
+    "type": "v"
+  },
+  {
+    "word": "enforcement",
+    "meaning": "sự thúc ép, sức bắt buộc",
+    "pronunciation": "/ɪnˈfɔːs.mənt/",
+    "type": "n"
+  },
+  {
+    "word": "legislation",
+    "meaning": "pháp luật, pháp chế",
+    "pronunciation": "/ˌledʒ.ɪˈsleɪ.ʃən/",
+    "type": "n"
+  },
+  {
+    "word": "legislate",
+    "meaning": "làm luật, lập pháp",
+    "pronunciation": "/ˈledʒ.ɪ.sleɪt/",
+    "type": "v"
+  },
+  {
+    "word": "legislator",
+    "meaning": "nhà lập pháp",
+    "pronunciation": "/ˈledʒ.ɪ.sleɪ.tər/",
     "type": "n"
   }
 ]

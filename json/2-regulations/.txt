@@ -22,7 +22,7 @@ immediately: ngay lập tức
 procedure: thủ tục
 proceed: tiến hành, tiếp diễn
 negative: tiêu cực
-possitive: tích cực
+positive: tích cực
 mandate: ra lệnh, ủy quyền, ủy thác, lệnh
 authorize: ủy quyền, cho phép
 effect: hiệu quả, hiệu lực, đem lại
@@ -37,4 +37,20 @@ effort: nổ lực, cố gắng
 prohibit: ngăn cấm, không cho phép
 forbid: ngăn cấm
 ban: lệnh cấm
-connvention: tập quán của cộng đồng, xã hội
+convention: tập quán của cộng đồng, xã hội
+adhere: bám sát, tuân thủ
+adherence: sự trung thành
+inspection: sự điều tra
+inspect: điều tra, kiểm tra
+inspector: thanh tra
+arrangement: sự sắp đặt, sắp xếp, chuẩn bị
+enable: cho phép
+act: hành động, đạo luật, đưa ra quyết định
+compensation: sự đền bù, bồi thường
+compensate: đền bù, bồi thường
+abolish: thủ tiêu, bãi bỏ, hủy bỏ
+enforce: thi hành, thúc ép
+enforcement: sự thúc ép, sức bắt buộc
+legislation: pháp luật, pháp chế
+legislate: làm luật, lập pháp
+legistor: nhà lập pháp
