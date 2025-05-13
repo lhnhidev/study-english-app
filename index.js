@@ -1,5 +1,5 @@
 let myVocabulary = [
-  { word: "hello", meaning: "xin chào", pronunciation: "/həˈləʊ/", type: "n" },
+  { word: "Hello", meaning: "xin chào", pronunciation: "/həˈləʊ/", type: "n" },
 ];
 let currentIndex = 0;
 
